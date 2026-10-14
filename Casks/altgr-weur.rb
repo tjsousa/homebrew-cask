@@ -2,8 +2,7 @@ cask "altgr-weur" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/tjsousa/altgr-weur-mac/archive/master.zip",
-      verified: "github.com/tjsousa/altgr-weur-mac/"
+  url "https://github.com/tjsousa/altgr-weur-mac/archive/master.zip"
   name "AltGr WEur keyboard layout"
   desc "One AltGr keystroke for all accented characters used in 8 European languages"
   homepage "https://altgr-weur.eu/"
